@@ -1,0 +1,121 @@
+**PROPRIETARY 3D ASSET LICENSE — ALL RIGHTS RESERVED**
+
+**Copyright (c) 2025 Anasimos Mesfin Kebede (the "Creator")**
+
+GitHub Username:  **@AnasimosM  (https://github.com/AnasimosM)**
+
+Contact:          **anasimosmesmesfinkebede@gmail.com**
+
+This license governs all 3D models, meshes, sculpts, topology, UV layouts,
+textures, PBR maps, materials, shaders, node groups, rigs, armatures,
+animations, HDRIs, scene files, .blend files, and rendered images associated
+with this repository (collectively, the "Assets").
+
+────────────────────────────────────────────────────────────
+1. **ALL RIGHTS RESERVED**
+
+────────────────────────────────────────────────────────────
+
+The Assets are the exclusive intellectual property of the Creator.
+No rights are granted except those expressly stated below.
+
+
+────────────────────────────────────────────────────────────
+
+2. **WRITTEN PERMISSION REQUIRED**
+
+────────────────────────────────────────────────────────────
+
+You may NOT use, render, import, distribute, publish, share, sublicense,
+or publicly display the Assets in any project — personal or otherwise —
+without prior WRITTEN PERMISSION from the Creator.
+
+   Request permission at: anasimosmesmesfinkebede@gmail.com
+
+Any permission granted is personal, non-transferable, non-exclusive,
+and may be revoked at any time.
+
+
+────────────────────────────────────────────────────────────
+
+3. **NO MODIFICATION**
+
+────────────────────────────────────────────────────────────
+
+Even where permission has been granted, you may NOT:
+   a) Edit, sculpt, remesh, retopologize, decimate, or alter geometry;
+   b) Repaint, recolor, upscale, downscale, or edit any texture or material;
+   c) Rerig, reskin, or alter animations, armatures, or drivers;
+   d) Kitbash, remix, combine, or merge the Assets with other works;
+   e) Extract, isolate, or repurpose any component of the Assets;
+   f) Create derivative works of any kind.
+
+The Assets may be used only in their original, unmodified form.
+
+
+────────────────────────────────────────────────────────────
+
+4. **MANDATORY ATTRIBUTION**
+
+────────────────────────────────────────────────────────────
+
+Wherever permission has been granted, visible credit is required:
+
+   "3D Asset '[Asset Name]' created by Anasimos Mesfin Kebede
+    https://github.com/AnasimosM/3D-Designs — Used with permission."
+
+Credit must appear in the credits screen, video description, artwork
+description, or an included CREDITS.txt file.
+
+You may NOT remove, hide, crop, or alter any copyright notice, watermark,
+signature geometry, embedded metadata, or attribution file.
+
+
+────────────────────────────────────────────────────────────
+
+5. **NO COMMERCIAL USE**
+
+────────────────────────────────────────────────────────────
+
+The Assets may not be sold, resold, licensed, rented, included in asset
+packs or marketplaces, used in paid products, client work, advertising,
+monetized media, 3D-printed for sale, or minted as NFTs or blockchain
+tokens — without a separate written commercial agreement.
+
+
+────────────────────────────────────────────────────────────
+
+6. **NO AI / MACHINE LEARNING**
+
+────────────────────────────────────────────────────────────
+
+The Assets may not be used as training, fine-tuning, reference, or input
+data for any artificial intelligence, machine learning, or generative
+model. This is prohibited under all circumstances.
+
+
+────────────────────────────────────────────────────────────
+
+7. **VIEWING RIGHTS ONLY**
+
+────────────────────────────────────────────────────────────
+
+Public visibility of this repository is provided for portfolio,
+evaluation, and demonstration purposes only. Viewing the Assets or
+previews grants no license or right to use them.
+
+
+────────────────────────────────────────────────────────────
+
+8. **TERMINATION & DISCLAIMER**
+
+────────────────────────────────────────────────────────────
+
+
+Any violation immediately and automatically terminates all granted
+rights. The Creator reserves all legal remedies, including DMCA
+takedown requests.
+
+**THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE
+CREATOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE USE OF THE ASSETS.**
