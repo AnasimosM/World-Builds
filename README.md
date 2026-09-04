@@ -1,16 +1,16 @@
 # World-Builds
 
-3D assets created in Blender by **Anasimos Mesfin Kebede**
+3D assets created in Blender by **AnasimosM**
 
 [![LICENSE](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Usage](https://img.shields.io/badge/Usage-Permission%20Required-orange.svg)](LICENSE)
 [![Modification](https://img.shields.io/badge/Modification-Not%20Allowed-critical.svg)](LICENSE)
 [![Commercial](https://img.shields.io/badge/Commercial-Permission%20Required-orange.svg)](LICENSE)
 
-Copyright (c) 2025 Anasimos Mesfin Kebede (the "Creator")
+Copyright (c) 2025 AnasimosM (the "Creator")
 
-GitHub Username:  @AnasimosM  (https://github.com/AnasimosM)
-Contact:          anasimosmesmesfinkebede@gmail.com
+GitHub Username:  AnasimosM  (https://github.com/AnasimosM)
+Contact:          anasimosm.singularityhorizon@gmail.com
 
 ![Preview](previews/asset_01.jpg)
 
@@ -18,7 +18,7 @@ Contact:          anasimosmesmesfinkebede@gmail.com
 
 ## 📜 License — ALL RIGHTS RESERVED
 
-**© 2026 Anasimos Mesfin Kebede. All Rights Reserved.**
+**© 2026 AnasimosM. All Rights Reserved.**
 
 > ⚠️ This is **NOT** open source and **NOT** free to use.
 > This repository is a **portfolio showcase only**.
@@ -40,7 +40,7 @@ Contact:          anasimosmesmesfinkebede@gmail.com
 
 ## 📩 Requesting Permission
 
-Email **anasimosmesmesfinkebede@gmail.com** with:
+Email **anasimosm.singularityhorizon@gmail.com** with:
 1. Which asset(s) you want
 2. What project you'd use them in
 3. Personal or commercial use
