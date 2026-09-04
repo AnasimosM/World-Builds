@@ -3,17 +3,17 @@
 ═══════════════════════════════════════════════
 
   Asset:    World-Builds 
-  Creator:  Anasimos Mesfin Kebede
+  Creator:  AnasimosM 
   Website:  https://github.com/AnasimosM
-  Contact:  anasimosmesmesfinkebede@gmail.com
+  Contact:  anasimosm.singularityhorizon@gmail.com
 
-  © 2026 Anasimos Mesfin Kebede . All Rights Reserved.
+  © 2026 AnasimosM . All Rights Reserved.
 
   Licensed for use only with written permission.
   Modification is NOT permitted.
   Commercial use is NOT permitted.
 
   Required credit line:
-  "3D Asset by Anasimos Mesfin Kebede — https://github.com/AnasimosM "
+  "3D Asset by AnasimosM — https://github.com/AnasimosM "
 
 ═══════════════════════════════════════════════
