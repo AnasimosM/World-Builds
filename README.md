@@ -12,7 +12,7 @@ Copyright (c) 2025 AnasimosM (the "Creator")
 GitHub Username:  AnasimosM  (https://github.com/AnasimosM)
 Contact:          anasimosm.singularityhorizon@gmail.com
 
-![Preview](Previews/assets_01.png)
+![Preview](Previews/assets%2001.png)
 
 ---
 
