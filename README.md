@@ -13,6 +13,8 @@ GitHub Username:  AnasimosM  (https://github.com/AnasimosM)
 Contact:          anasimosm.singularityhorizon@gmail.com
 
 ![Preview](Previews/assets%2001.png)
+![Preview](Previews/assets%2002.png)
+
 
 ---
 
