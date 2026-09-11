@@ -53,4 +53,4 @@ Approved requests receive the files directly, with usage terms attached.
 
 ---
 
-📄 Full terms: [LICENSE](LICENSE.md)
+📄 Full terms: [LICENSE](LICENSE)
